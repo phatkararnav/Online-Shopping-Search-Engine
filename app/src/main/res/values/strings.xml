@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlineShoppingSearchEngine</string>
+    <string name="search_box_hint">Search&#8230;</string>
+    <string name="search_button_text">Go</string>
+    <string name="ERROR_NO_INTERNET_ACCESS">Please check your internet connection.</string>
+    <string name="ERROR_INTERNAL_PROBLEM">Sorry! Some internal problem occurred.</string>
+</resources>
